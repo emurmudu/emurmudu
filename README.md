@@ -1,6 +1,8 @@
 ![An old rock in the desert](https://raw.githubusercontent.com/emurmudu/emurmudu/main/%40emurmu.png "Shiprock, New Mexico by Beau Rogers")
 
 ## Current Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=algolia)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emurmudu&theme=algolia)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=algolia&utcOffset=8)
 
 ## Ongoing Projects
