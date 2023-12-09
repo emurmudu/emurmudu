@@ -1,3 +1,4 @@
+# Overview
 ![An old rock in the desert](https://raw.githubusercontent.com/emurmudu/emurmudu/main/%40emurmu.png "Shiprock, New Mexico by Beau Rogers")
 
 ## Current Stats
@@ -15,3 +16,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,css,html,firebase,vscode,ps," />
+  </a>
+</p>
