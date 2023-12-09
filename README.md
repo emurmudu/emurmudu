@@ -1,5 +1,7 @@
-# Overiew
 ![An old rock in the desert](https://raw.githubusercontent.com/emurmudu/emurmudu/main/%40emurmu.png "Shiprock, New Mexico by Beau Rogers")
+
+## Current Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emurmudu&theme=algolia)
 
 ## Ongoing Projects
 - 🔭 I’m currently working on ...
