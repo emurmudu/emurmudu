@@ -7,8 +7,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
 
 ## Ongoing Activities
-- 🔭 I’m currently working on SwiftSend, BistroBoss project. 
-- 🌱 I’m currently learning  Express, mongodb and next js.
+- 🔭 I’m currently working on individual project. 
+- 🌱 I’m currently learning Typescript, Redux, Express, mongodb mongoose and next js.
 - 👯 I’m looking to collaborate on new projects.
 
 ## Skills
