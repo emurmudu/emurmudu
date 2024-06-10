@@ -24,26 +24,33 @@
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 
-name: Update GitHub activity
+name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # twice a week
+    - cron: "*/5 * * * *" # Runs every 5 minutes; adjust the frequency as needed
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Update README with recent activity
+  update-readme:
+    name: Update README with Recent Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_USERNAME: emurmudu
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: ":zap: Update README with the recent activity"
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          COMMIT_MSG: 'docs: update GH activity up to ${{ steps.date.outputs.date }}'
-          MAX_LINES: 10
-
