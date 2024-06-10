@@ -24,8 +24,8 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)-->
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
@@ -36,7 +36,7 @@
 
 ## 🔝 Top Repos
 <!--START_SECTION:activity-->
-![](https://github-contributor-stats.vercel.app/api?username=emurmudu&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<!--![](https://github-contributor-stats.vercel.app/api?username=emurmudu&limit=5&theme=prussian&combine_all_yearly_contributions=true)-->
 <!--END_SECTION:activity-->
 
 ## 💫 Ongoing Activities
