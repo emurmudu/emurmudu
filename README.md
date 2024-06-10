@@ -24,7 +24,8 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
