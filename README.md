@@ -34,13 +34,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
 <!--END_SECTION:activity-->
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Repos
 <!--START_SECTION:activity-->
-![](https://github-contributor-stats.vercel.app/api?username=emurmudu&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=emurmudu&limit=5&theme=prussian&combine_all_yearly_contributions=true)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)
 <!--END_SECTION:activity-->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emurmudu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 Ongoing Activities
 <!--START_SECTION:activity-->
