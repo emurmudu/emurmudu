@@ -5,9 +5,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&count_private=true)![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=prussian&hide_border=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
 ## Ongoing Activities
 - 🔭 I’m currently working on individual project. 
 - 🌱 I’m currently learning Typescript, Redux, Express, mongodb mongoose and next js.
