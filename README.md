@@ -3,10 +3,7 @@
 
 ## 🌐 Socials:
 <!--START_SECTION:activity-->
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aByZHtaa) 
-<!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-murmu)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aByZHtaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-murmu)
 <!--END_SECTION:activity-->
 ## 💻 Tech Stack:
 <!--START_SECTION:activity-->
@@ -15,17 +12,13 @@
 
 ## 📊 Current Stats
 <!--START_SECTION:activity-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&count_private=true)![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=prussian&hide_border=true)
 <!--END_SECTION:activity-->
+
 <!--START_SECTION:activity-->
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=prussian&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 <!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
-<!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-<!--END_SECTION:activity-->
+
 <!--START_SECTION:activity-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
 <!--END_SECTION:activity-->
