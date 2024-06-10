@@ -34,7 +34,7 @@
 -->
 <!--END_SECTION:activity-->
 
-## 🔝 Top Repos
+<!--## 🔝 Top Repos-->
 <!--START_SECTION:activity-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=emurmudu&limit=5&theme=prussian&combine_all_yearly_contributions=true)-->
 <!--END_SECTION:activity-->
