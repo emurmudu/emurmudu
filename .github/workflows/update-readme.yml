@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README with Recent Activity
-        uses: jamesgeorge007/github-activity-readme@v1.1
+        uses: jamesgeorge007/github-activity-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
