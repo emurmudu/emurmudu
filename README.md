@@ -2,7 +2,7 @@
 ![An old rock in the desert](https://raw.githubusercontent.com/emurmudu/emurmudu/main/%40emurmu.png "Shiprock, New Mexico by Beau Rogers")
 <!--
 ## 🙋‍♂️ About Me:
-Web developer aiming for a senior role. Committed to continuous learning and eager to adopt emerging technologies. Open to collaborate on innovative projects.
+
 -->
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aByZHtaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-murmu)
