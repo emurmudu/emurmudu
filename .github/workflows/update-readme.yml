@@ -1,25 +1,49 @@
 
 
-name: Update README with Recent Activity
+# name: Update README with Recent Activity
+
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *" # Runs every hour; adjust the frequency as needed
+#   workflow_dispatch:
+
+# jobs:
+#   update-readme:
+#     name: Update README with Recent Activity
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
+
+#       - name: Update README with Recent Activity
+#         uses: jamesgeorge007/github-activity-readme@master
+#         with:
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+
+name: Update GitHub activity
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # Runs every hour; adjust the frequency as needed
+    - cron: "*/5 * * * *" # twice a week
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with Recent Activity
+  build:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update README with Recent Activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MSG: 'docs: update GH activity up to ${{ steps.date.outputs.date }}'
+          MAX_LINES: 10
 
