@@ -6,6 +6,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
 
+![emurmudu's Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+
 ## Ongoing Activities
 - 🔭 I’m currently working on individual project. 
 - 🌱 I’m currently learning Typescript, Redux, Express, mongodb mongoose and next js.
