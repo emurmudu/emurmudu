@@ -6,7 +6,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
 
-![emurmudu's Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![emurmudu's Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=cobalt&show_icons=true&hide_border=true&count_private=true)![emurmudu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=cobalt&hide_border=true)
 
 ## Ongoing Activities
 - 🔭 I’m currently working on individual project. 
