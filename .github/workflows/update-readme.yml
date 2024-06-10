@@ -28,7 +28,7 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every 5 minutes; adjust the frequency as needed
+    - cron: "0 */12 * * *" # Runs every 5 minutes; adjust the frequency as needed
   workflow_dispatch:
 
 jobs:
