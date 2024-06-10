@@ -20,17 +20,18 @@
 
 ## 📊 Current Stats
 <!--START_SECTION:activity-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&count_private=true)![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=prussian&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emurmudu&theme=prussian&show_icons=true&hide_border=true&count_private=true)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
+
+<!--![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=emurmudu&theme=prussian&hide_border=true)-->
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emurmudu&theme=prussian&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emurmudu&theme=prussian)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emurmudu&theme=prussian)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)-->
 
 <!--END_SECTION:activity-->
 
