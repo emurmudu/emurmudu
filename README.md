@@ -29,9 +29,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:activity-->
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emurmudu&theme=prussian)
--->
+
 <!--END_SECTION:activity-->
 
 <!--## 🔝 Top Repos-->
