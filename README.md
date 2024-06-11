@@ -1,6 +1,6 @@
 # Overview
 ![An old rock in the desert](https://raw.githubusercontent.com/emurmudu/emurmudu/main/%40emurmu.png "Shiprock, New Mexico by Beau Rogers")
-![Header](./header-image.png)
+![Header](./github-header-image.png)
 <!--
 ## 🙋‍♂️ About Me:
 
