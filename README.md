@@ -47,5 +47,7 @@
 - 👯 I’m looking to collaborate on new projects.
 
 <!--START_SECTION:activity-->
+<!--
 ![Profile views counter](https://komarev.com/ghpvc/?username=emurmudu&&style=flat-square)  
+-->
 <!--END_SECTION:activity-->
